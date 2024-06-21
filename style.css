@@ -17,5 +17,10 @@ body{
 
 .box{
     border: 2px solid black;
-
+    
+            display: inline-block;  
+            font-size: 2em;
+            text-align: center;
+            line-height: 100px;
+            cursor: pointer;
 }
